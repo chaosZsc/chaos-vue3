@@ -1,0 +1,19 @@
+{
+  "name": "chaos-vue3",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "An alternative to Ruoyi Vue3",
+  "private": true,
+  "scripts": {},
+  "keywords": [
+    "admin",
+    "vue3",
+    "vite",
+    "pinia",
+    "element-plus",
+    "echarts",
+    "iconify"
+  ],
+  "author": "chaosZsc <chaos_zsc@163.com>",
+  "license": "MIT"
+}
