@@ -4,7 +4,9 @@
   "type": "module",
   "description": "An alternative to Ruoyi Vue3",
   "private": true,
-  "scripts": {},
+  "scripts": {
+    "dev": "vite"
+  },
   "keywords": [
     "admin",
     "vue3",
