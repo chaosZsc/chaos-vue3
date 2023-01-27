@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "mikestead.dotenv",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "antfu.iconify",
+    "csstools.postcss",
+    "vue.vscode-typescript-vue-plugin",
+    "antfu.unocss",
+    "vue.volar",
+    "usernamehw.errorlens",
+    "eamodio.gitlens"
+  ]
+}
