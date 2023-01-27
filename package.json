@@ -5,6 +5,7 @@
   "description": "An alternative to Ruoyi Vue3",
   "private": true,
   "scripts": {
+    "prepare": "husky install",
     "dev": "vite"
   },
   "keywords": [
@@ -24,7 +25,10 @@
     "vue-router": "^4.1.6"
   },
   "devDependencies": {
+    "@commitlint/cli": "^17.4.2",
+    "@commitlint/config-conventional": "^17.4.2",
     "@vitejs/plugin-vue": "^4.0.0",
+    "husky": "^8.0.0",
     "vite": "^4.0.4"
   }
 }
